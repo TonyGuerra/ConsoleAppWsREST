@@ -1,0 +1,13 @@
+{
+	"operacao":"cancelamento",
+	"versao":"1.0.0",
+	"id_processo":"|id|",
+	"filial":"|filial|", 
+	"cnpj":"|cnpj|",
+	"prefixo":"|prefixo|", 
+	"numero":"|numero|" ,
+	"parcela":"|parcela|",
+	"tipo":"|tipo|", 
+	"cliente":"|cliente|",
+	"loja_cli":"|loja_cli|" 
+}

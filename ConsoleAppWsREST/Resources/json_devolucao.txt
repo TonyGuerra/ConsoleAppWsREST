@@ -1,0 +1,16 @@
+{
+	"operacao":"devolucao",
+	"versao":"1.0.0",
+	"id_processo":"|id|",
+	"filial":"|filial|", 
+	"cnpj":"|cnpj|",
+	"prefixo":"|prefixo|", 
+	"numero":"|numero|" ,
+	"parcela":"|parcela|",
+	"tipo":"|tipo|", 
+	"cliente":"|cliente|",
+	"loja_cli":"|loja_cli|", 
+	"num_ncc":"|num_ncc|",
+	"dt_devolucao":"|dt_devolucao|",
+	"vlr_devolucao":|vlr_devolucao|
+}

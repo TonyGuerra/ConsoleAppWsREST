@@ -1,0 +1,17 @@
+{
+	"operacao":"antecipacao",
+	"versao":"1.0.0",
+	"id_processo":"|id|",
+	"filial":"|filial|", 
+	"cnpj":"|cnpj|",
+	"prefixo":"|prefixo|", 
+	"numero":"|numero|" ,
+	"parcela":"|parcela|",
+	"tipo":"|tipo|", 
+	"cliente":"|cliente|",
+	"loja_cli":"|loja_cli|", 
+	"dt_pg_antecip":"|dt_pg_antecip|", 
+	"vlr_antecip":|vlr_antecip|,
+	"vlr_iof":|vlr_iof|,
+	"historico":"|historico|"
+}

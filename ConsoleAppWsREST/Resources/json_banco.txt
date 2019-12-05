@@ -1,0 +1,10 @@
+{
+	"versao":"1.0.0",
+	"id_banco":"|id|",
+	"cnpj":"|cnpj|",
+	"banco":"|banco|", 
+	"agencia":"|agencia|",
+	"dig_agencia":"|dig_agencia|", 
+	"contacorrente":"|contacorrente|" ,
+	"dig_contacorrente":"|dig_contacorrente|" 
+}

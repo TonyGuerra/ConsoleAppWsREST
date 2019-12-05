@@ -1,0 +1,15 @@
+{
+	"operacao":"bonificacao",
+	"versao":"1.0.0",
+	"id_processo":"|id|",
+	"filial":"|filial|", 
+	"cnpj":"|cnpj|",
+	"prefixo":"|prefixo|", 
+	"numero":"|numero|" ,
+	"parcela":"|parcela|",
+	"tipo":"|tipo|", 
+	"cliente":"|cliente|",
+	"loja_cli":"|loja_cli|", 
+	"dt_bonificacao":"|dt_bonificacao|",
+	"vlr_bonif":|vlr_bonif|
+}
